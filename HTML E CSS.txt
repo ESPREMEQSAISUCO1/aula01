@@ -1,0 +1,34 @@
+O QUE É HTML
+
+O HTML é uma linguagem de marcação. Estas linguagens são constituídas de códigos que delimitam conteúdos específicos, segundo uma sintaxe própria.
+ O HTML tem códigos para criar paginas na web. Estes códigos que definem o tipo de letra, qual o tamanho, cor, espaçamento, e vários outros aspectos do site.
+ No início era muito complicado aprender HTML, pois eram muitos comandos para fazer algo simples. A cada nova versão, o HTML fica mais fácil de utilizar, e adquire mais funções.
+ Atualmente qualquer pessoa pode acessar a internet a aprender a construir um site básico em questão de horas, seguindo os passos de tutoriais e aprendendo as funções de cada código.
+
+O HTML foi a primeira linguagem de nível mundial, porem não é a única. Existem muitas outras linguagens destinadas á criação de paginas da web, porém o HTML ainda prevalece. 
+Atualmente já é possível integrar varias linguagens na mesma pagina da Web, sendo possível usar duas ou mais linguagens no mesmo site.
+Para criar e editar códigos em HTML é necessário qualquer editor de texto comum, como bloco de notas. Para testar os códigos, basta salvar o arquivo em formato .HTML e executar. 
+Para o teste é necessário ter um navegador configurado como padrão. Não é necessária internet, pois o arquivo com os códigos esta na maquina onde esta sendo executado.
+
+
+QUAL A FUNÇÃO  DO HTML
+
+
+A função do HTML (Hypertext Markup Language) na programação web sofreu alterações ao longo dos anos e hoje essa linguagem deve ser utilizada unicamente para estruturar o conteúdo das páginas.
+ Ou seja, não cabe a ela definir características visuais ou comportamentos, pois isso deve ser feito usando CSS e JavaScript.
+
+Além disso, o uso das tags semânticas também dá ao documento HTML uma carga de meta significados. Por exemplo: ao usar a tag <main> você está definindo o conteúdo principal da página;
+ ao usar a tag <nav> você está indicando que o conteúdo é uma seção de navegação e assim por diante.
+
+
+ O QUE E CSS
+
+
+CSS é a sigla para o termo em inglês Cascading Style Sheets que, traduzido para o português, significa Folha de Estilo em Cascatas. O CSS é fácil de aprender e entender e
+ é facilmente utilizado com as linguagens de marcação HTML ou XHTML. 
+
+
+COMO USAR O HTML
+
+HTML (Linguagem de Marcação de Hipertexto) é o código que você usa para estruturar uma página web e seu conteúdo. Por exemplo, o conteúdo pode ser estruturado em parágrafos, 
+em uma lista com marcadores ou usando imagens e tabelas.26
